@@ -11,6 +11,8 @@ package card;
  * There are 52 cards in a deck, no jokers.
  * This code is to be used in ICE1. When you create your own branch,
  * add your name as a modifier.
+ * modifier gurnadar kaur
+ * student number 991722459
  * @author srinivsi
  */
 public class Card {
